@@ -36,7 +36,7 @@ public class Administradores {
         this.Contraseñas = Contraseñas;
     }
     
-    public String getCOntraseñas(){
+    public String getContraseñas(){
         return Contraseñas;
     }
 }
